@@ -1,0 +1,9 @@
+c:\users\fawad\documents\visual studio 2017\Projects\MyAPIs\MyAPIs\bin\Debug\netcoreapp1.1\MyAPIs.deps.json
+c:\users\fawad\documents\visual studio 2017\Projects\MyAPIs\MyAPIs\bin\Debug\netcoreapp1.1\MyAPIs.runtimeconfig.json
+c:\users\fawad\documents\visual studio 2017\Projects\MyAPIs\MyAPIs\bin\Debug\netcoreapp1.1\MyAPIs.runtimeconfig.dev.json
+c:\users\fawad\documents\visual studio 2017\Projects\MyAPIs\MyAPIs\bin\Debug\netcoreapp1.1\MyAPIs.dll
+c:\users\fawad\documents\visual studio 2017\Projects\MyAPIs\MyAPIs\obj\Debug\netcoreapp1.1\MyAPIs.csprojResolveAssemblyReference.cache
+c:\users\fawad\documents\visual studio 2017\Projects\MyAPIs\MyAPIs\obj\Debug\netcoreapp1.1\MyAPIs.AssemblyInfo.cs
+c:\users\fawad\documents\visual studio 2017\Projects\MyAPIs\MyAPIs\bin\Debug\netcoreapp1.1\MyAPIs.pdb
+c:\users\fawad\documents\visual studio 2017\Projects\MyAPIs\MyAPIs\obj\Debug\netcoreapp1.1\MyAPIs.dll
+c:\users\fawad\documents\visual studio 2017\Projects\MyAPIs\MyAPIs\obj\Debug\netcoreapp1.1\MyAPIs.pdb
